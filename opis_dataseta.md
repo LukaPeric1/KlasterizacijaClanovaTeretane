@@ -5,7 +5,10 @@ U fajlu `gym_members_exercise_tracking.csv` dati su podaci o članovima teretane
 koji sadrže analize obrazaca treninga i fizičkih performansi. Dataset je 
 preuzet sa platforme Kaggle (Gym Members Exercise Dataset, autor: Vala Khorasani, 
 https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset). 
-Podaci su o 973 člana teretane. Promenljive su:
+Podaci su o 973 člana teretane. Bitno je napomenuti da je dataset sintetizovan 
+(veštački generisan), a ne prikupljen od stvarnih članova teretane - ovo ne 
+umanjuje vrednost analize, s obzirom da je cilj rada demonstracija metodologije 
+klasterizacije. Promenljive su:
 
 - Age - Starost člana (godine)
 - Gender - Pol (Male, Female)
